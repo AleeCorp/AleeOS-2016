@@ -1,0 +1,21 @@
+AleeOS Terminal 2015-2016
+F:\Setup>InstallAleeOSForWin.bat
+Accessing the C:/ drive Done!
+Reading C:/
+Drive Label: (PC Label)
+Total Drive Size (Size) Gigabytes
+Old File System WinFS
+New File System AleeFS
+Done Reading C:/
+Exiting Windows Done!
+Formating C:/ 100% Done!
+Unmounting C:/ Done!
+Turning C:/ into Floppy Drive Done!
+Turning A:/ into Main Drive Done!
+Installing AleeOS 0.0.1 Beta 4
+Finding AleeOS Files in F:/ Done!
+Now Copying AleeOS Files 100% Type: Terminal.adsf Done!
+
+
+
+
